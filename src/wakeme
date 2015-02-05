@@ -1,0 +1,2 @@
+# wake a device example
+./wol 54:5A:DB:FA:E6:C8
